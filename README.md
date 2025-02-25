@@ -1,5 +1,5 @@
 # 💫 About Me:
-I code for my own pleasure (read: pain), hoping to make some extra coin or feed my curiosity.<br>By day, I’m an IT Analyst; after hours, I dive into side projects that that may or may not be the next big thing.<br><br>Non-tech-wise: I enjoy sea-related activities (sailing/surf) and I suck at chess, still playing tho.
+I code for my own pleasure (read: pain), hoping to make some extra coin or feed my curiosity.<br>By day, I’m an IT Analyst; after hours, I dive into side projects that that may or may not be the next big thing.<br><br>Non-tech-wise: I enjoy sea-related activities (sailing/surf) and I suck at chess, still playing it tho.
 
 
 ## 🌐 Socials:
